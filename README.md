@@ -4,18 +4,20 @@ Repositorio público de la cátedra para que los alumnos suban el código de sus
 
 ## Organización
 
-El código se organiza por trabajo práctico y, dentro de cada uno, por grupo:
+Las entregas son **individuales**. Hay 3 TPs y un TP integrador. El código se organiza por trabajo práctico y, dentro de cada uno, por alumno (carpeta con tu usuario de GitHub):
 
 ```
-tps/
-  tp1/
-    grupo1/
-    grupo2/
-  tp2/
-    grupo1/
+TRABAJOS PRACTICOS/
+  TP1/
+    usuario1/
+    usuario2/
+  TP2/
+    usuario1/
+  TP3/
+  TP INTEGRADOR/
 ```
 
-Cada grupo tiene una única carpeta compartida por todos sus integrantes.
+Cada alumno tiene su propia carpeta dentro de cada TP.
 
 ## Cómo subir tu código
 
