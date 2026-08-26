@@ -1,0 +1,6 @@
+Esta carpeta es un EJEMPLO del formato de nombre a usar.
+
+Reemplazá "APELLIDO_NOMBRE_DNI" por tus datos reales, por ejemplo:
+PEREZ_JUAN_30111222
+
+Borrá este archivo LEEME.txt y subí ahí tus archivos del TP.

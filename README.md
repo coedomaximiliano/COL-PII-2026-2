@@ -4,18 +4,20 @@ Repositorio público de la cátedra para que los alumnos suban el código de sus
 
 ## Organización
 
-Las entregas son **individuales**. Hay 3 TPs y un TP integrador. El código se organiza por trabajo práctico y, dentro de cada uno, por alumno (carpeta con tu usuario de GitHub):
+Las entregas son **individuales**. Hay 3 TPs y un TP integrador. El código se organiza por trabajo práctico y, dentro de cada uno, por alumno: una carpeta con el formato `APELLIDO_NOMBRE_DNI`:
 
 ```
 TRABAJOS PRACTICOS/
   TP1/
-    usuario1/
-    usuario2/
+    APELLIDO_NOMBRE_DNI/
+    PEREZ_JUAN_30111222/
   TP2/
-    usuario1/
+    PEREZ_JUAN_30111222/
   TP3/
   TP INTEGRADOR/
 ```
+
+(`TRABAJOS PRACTICOS/TP1/APELLIDO_NOMBRE_DNI/` es un ejemplo de referencia con el formato exacto a usar.)
 
 Cada alumno tiene su propia carpeta dentro de cada TP.
 
