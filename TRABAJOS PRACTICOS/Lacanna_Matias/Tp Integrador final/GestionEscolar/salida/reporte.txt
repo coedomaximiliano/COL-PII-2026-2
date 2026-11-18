@@ -1,0 +1,56 @@
+======================================================================
+REPORTE - Escuela Técnica N° 1
+Generado: 14/11/2026 00:29:32
+======================================================================
+Personas inscriptas: 9 (6 alumnos, 3 profesores)
+
+--- LISTADO DE PERSONAS ---
+[Alumno]   Juan González | DNI 40123456 | Legajo A-0001 | Asistencia 95% | Notas: 8, 9, 7.5 | Promedio 8.17
+[Alumno]   María López | DNI 41234567 | Legajo A-0002 | Asistencia 61% | Notas: 6, 7, 6 | Promedio 6.33
+[Alumno]   Lucía Fernández | DNI 42345678 | Legajo A-0004 | Asistencia 88% | Notas: 9, 10, 9.5 | Promedio 9.50
+[Alumno]   Tomás Rodríguez | DNI 43456789 | Legajo A-0005 | Asistencia 55% | Notas: 5, 6, 4 | Promedio 5.00
+[Alumno]   Sofía Martínez | DNI 4412345 | Legajo B-0006 | Asistencia 82% | Notas: 7, 6.5, 8 | Promedio 7.17
+[Profesor] Carlos Pérez | DNI 20123456 | Materia Matemática | 20 horas cátedra
+[Profesor] Ana Torres | DNI 22345678 | Materia Programación | 15 horas cátedra
+[Alumno]   Nuevo Alumno | DNI 47111222 | Legajo N-0010 | Asistencia 75% | Notas: 8 | Promedio 8.00
+[Profesor] Roberto Sosa | DNI 25111222 | Materia Historia | 10 horas cátedra
+
+--- SUELDOS DE PROFESORES (valor hora $15.000) ---
+Carlos Pérez: $300.000
+Ana Torres: $225.000
+Roberto Sosa: $150.000
+
+--- ALUMNOS APROBADOS (promedio >= 6) ---
+Juan González: 8.17
+María López: 6.33
+Lucía Fernández: 9.50
+Sofía Martínez: 7.17
+Nuevo Alumno: 8.00
+
+--- ALUMNOS DESAPROBADOS ---
+Tomás Rodríguez: 5.00
+
+--- RANKING POR PROMEDIO ---
+1. Lucía Fernández (A-0004) - 9.50
+2. Juan González (A-0001) - 8.17
+3. Nuevo Alumno (N-0010) - 8.00
+4. Sofía Martínez (B-0006) - 7.17
+5. María López (A-0002) - 6.33
+6. Tomás Rodríguez (A-0005) - 5.00
+
+--- ESTADÍSTICAS DEL CURSO (NumPy) ---
+Promedio general: 7.36
+Promedio máximo:  9.50
+Promedio mínimo:  5.00
+Desvío estándar:  1.43
+Aprobados: 5 | Desaprobados: 1
+
+--- PREDICCIÓN DE RIESGO (K-NN, k=3) ---
+Juan González: promedio 8.17, asistencia 95% -> SIN RIESGO
+María López: promedio 6.33, asistencia 61% -> RIESGO
+Lucía Fernández: promedio 9.50, asistencia 88% -> SIN RIESGO
+Tomás Rodríguez: promedio 5.00, asistencia 55% -> RIESGO
+Sofía Martínez: promedio 7.17, asistencia 82% -> SIN RIESGO
+Nuevo Alumno: promedio 8.00, asistencia 75% -> SIN RIESGO
+En riesgo: 2 | Sin riesgo: 4
+======================================================================

@@ -1,0 +1,15 @@
+# promedio;asistencia;etiqueta  (casos históricos para entrenar el K-NN)
+8.5;95;sin riesgo
+9.0;90;sin riesgo
+7.5;85;sin riesgo
+7.0;80;sin riesgo
+6.5;88;sin riesgo
+6.5;60;sin riesgo
+8.0;70;sin riesgo
+3.0;50;riesgo
+4.0;60;riesgo
+5.0;70;riesgo
+5.5;65;riesgo
+6.0;55;riesgo
+4.5;85;riesgo
+2.5;90;riesgo

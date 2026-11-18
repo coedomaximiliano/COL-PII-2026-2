@@ -1,0 +1,14 @@
+# ALUMNO;nombre;dni;legajo;asistencia;nota1,nota2,...   |   PROFESOR;nombre;dni;materia;horas
+ALUMNO;Juan González;40123456;A-0001;95;8,9,7.5
+ALUMNO;María López;41234567;A-0002;61;6,7,6
+ALUMNO;Pedro Gómez;39876543;A-0003;70;4,5,3.5
+ALUMNO;Lucía Fernández;42345678;A-0004;88;9,10,9.5
+ALUMNO;Tomás Rodríguez;43456789;A-0005;55;5,6,4
+ALUMNO;Sofía Martínez;4412345;B-0006;82;7,6.5,8
+PROFESOR;Carlos Pérez;20123456;Matemática;20
+PROFESOR;Ana Torres;22345678;Programación;15
+ALUMNO;Diego Ramírez;12AB5678;A-0007;80;7,8
+ALUMNO;Valentina Ruiz;45678901;A-0008;90;7,15,8
+ALUMNO;Martín Castro;46789012;a-12;90;7
+PROFESOR;Laura Díaz;23456789
+ALUMNO;Juan Duplicado;40123456;A-0009;90;7

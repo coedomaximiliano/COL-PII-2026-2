@@ -1,0 +1,5 @@
+2026-11-14 00:29:32 | inscribir(Escuela 'Escuela Técnica N° 1' (8 personas), Nuevo Alumno (DNI 40123456)) | ERROR: Ya existe una persona inscripta con DNI 40123456
+2026-11-14 00:29:32 | inscribir(Escuela 'Escuela Técnica N° 1' (8 personas), Nuevo Alumno (DNI 47111222)) | OK
+2026-11-14 00:29:32 | inscribir(Escuela 'Escuela Técnica N° 1' (9 personas), Roberto Sosa (DNI 25111222)) | OK
+2026-11-14 00:29:32 | cargar_nota(Nuevo Alumno (DNI 47111222), 15.0) | ERROR: Nota inválida 15: debe estar entre 0 y 10
+2026-11-14 00:29:32 | cargar_nota(Nuevo Alumno (DNI 47111222), 8.0) | OK
